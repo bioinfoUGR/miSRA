@@ -1,0 +1,3 @@
+#Before removing null-samples 99
+#After removing null-samples 99
+#Samples where not a single reference sequence was found
