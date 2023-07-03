@@ -10,32 +10,33 @@ miSRA requires Python >= 3.7 and the python package *requests* (automatically in
     python3 -m venv env
     source env/bin/activate
 
-### Install with *pip* (recommended)
+### Option 1: Install with *pip* (recommended)
 
     pip3 install miSRA
-    # to test that it worked
+    # to test your installation
     miSRA --help
 
-### Install manually 
+### Option 2: Install manually 
 Alternatively, you could clone the project, install the requirements and make an alias to the script.
 
     git clone https://github.com/bioinfoUGR/miSRA.git
     cd miSRA
     pip3 install -r requirements.txt
     alias miSRA='python3 /absolute/path/to/miSRA.py'
+    # to test your installation
+    miSRA --help
 
 If you do not want to add an alias, miSRA is a stand-alone script so it should work all the same by simply:
 
     python3 /absolute/path/to/miSRA.py
 
-### Test your installation
-
-    miSRA --help
 
 ## Run miSRA:
 
+    Below is an example of a typical miSRA job. Using the “-h” option will report a list of all commands available.
+
     miSRA --config your_config.json
-An example [*config.json*](https://github.com/bioinfoUGR/miSRA/tree/master/src/example_configs/miSRA_example_config.json) could include the following parameters (for a detailed explanation of the different query modes, [see **miSRA modes** ](##miSRA-modes)):
+An example [*config.json*](https://raw.githubusercontent.com/bioinfoUGR/miSRA/main/src/example_configs/miSRA_example_config.json) could include the following parameters (for a detailed explanation of the different query modes, [see **miSRA modes** ](#miSRA-modes)):
     
     {
         "mode":"mirna",  # There are different modes to query miSRA (mirna, libs and spike). The mode mirna performs alignments to miRNA annotations using sRNAbench
