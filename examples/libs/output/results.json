@@ -1,0 +1,5 @@
+{
+"files": ["/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RCadj.tsv","/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RPMtotal.tsv","/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/NC_001802.1_RC.tsv","/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/NC_001802.1_RCperc.tsv","/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/NC_001802.1_RPMtotal.tsv","/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RPMtotal.tsv","/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RC.tsv" ],
+"desc": ["Adjusted read counts for user provided sequences","RPM expression level for matches to user provided sequences","Read Count per position in sequence: NC_001802.1","Read Count percentage per position in sequence: NC_001802.1","RPM (total count) per position in sequence: NC_001802.1","RPM expression of reads aligned to the reference sequences","Read Count of reads aligned to the reference sequences" ],
+"type": ["RCadjmatrix","RPMmatrix","RCpp","RCpercpp","RPMtotalpp","RPM_readmatrix","RPM_readmatrix" ]
+}

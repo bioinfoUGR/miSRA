@@ -1,0 +1,410 @@
+2023-07-12 13:12:50.257 SUCCESS: Total number of jobs: 99
+2023-07-12 13:12:50.286 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130454.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130454
+2023-07-12 13:12:50.286 SUCCESS: Launch SRX1130454.fa.gz
+2023-07-12 13:12:50.287 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP131341/reads/SRX3154227.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX3154227
+2023-07-12 13:12:50.287 SUCCESS: Launch SRX3154227.fa.gz
+2023-07-12 13:12:50.288 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP245959/reads/SRX7649168.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX7649168
+2023-07-12 13:12:50.288 SUCCESS: Launch SRX7649168.fa.gz
+2023-07-12 13:12:50.289 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP045111/reads/SRX666579.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX666579
+2023-07-12 13:12:50.289 SUCCESS: Launch SRX666579.fa.gz
+2023-07-12 13:12:50.289 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130506.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130506
+2023-07-12 13:12:50.29 SUCCESS: Launch SRX1130506.fa.gz
+2023-07-12 13:12:50.29 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988323.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988323
+2023-07-12 13:12:50.291 SUCCESS: Launch ERX3988323.fa.gz
+2023-07-12 13:12:51.599 SUCCESS: SRX7649168.fa.gz Finished with success!
+2023-07-12 13:12:51.6 SUCCESS: Finished 1 out of 99 jobs!
+2023-07-12 13:12:51.7 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130469.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130469
+2023-07-12 13:12:51.701 SUCCESS: Launch SRX1130469.fa.gz
+2023-07-12 13:12:52.003 SUCCESS: SRX1130454.fa.gz Finished with success!
+2023-07-12 13:12:52.004 SUCCESS: Finished 2 out of 99 jobs!
+2023-07-12 13:12:52.105 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP279175/reads/SRX9029119.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX9029119
+2023-07-12 13:12:52.105 SUCCESS: Launch SRX9029119.fa.gz
+2023-07-12 13:12:52.106 SUCCESS: ERX3988323.fa.gz Finished with success!
+2023-07-12 13:12:52.106 SUCCESS: Finished 3 out of 99 jobs!
+2023-07-12 13:12:52.207 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP124298/reads/SRX3367918.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX3367918
+2023-07-12 13:12:52.207 SUCCESS: Launch SRX3367918.fa.gz
+2023-07-12 13:12:52.61 SUCCESS: SRX3154227.fa.gz Finished with success!
+2023-07-12 13:12:52.611 SUCCESS: Finished 4 out of 99 jobs!
+2023-07-12 13:12:52.711 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP074126/reads/SRX1735466.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1735466
+2023-07-12 13:12:52.712 SUCCESS: Launch SRX1735466.fa.gz
+2023-07-12 13:12:52.813 SUCCESS: SRX666579.fa.gz Finished with success!
+2023-07-12 13:12:52.813 SUCCESS: Finished 5 out of 99 jobs!
+2023-07-12 13:12:52.914 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP279175/reads/SRX9029128.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX9029128
+2023-07-12 13:12:52.914 SUCCESS: Launch SRX9029128.fa.gz
+2023-07-12 13:12:54.221 SUCCESS: SRX1735466.fa.gz Finished with success!
+2023-07-12 13:12:54.222 SUCCESS: Finished 6 out of 99 jobs!
+2023-07-12 13:12:54.222 SUCCESS: SRX9029119.fa.gz Finished with success!
+2023-07-12 13:12:54.222 SUCCESS: Finished 7 out of 99 jobs!
+2023-07-12 13:12:54.323 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130465.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130465
+2023-07-12 13:12:54.324 SUCCESS: Launch SRX1130465.fa.gz
+2023-07-12 13:12:54.324 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP060754/reads/SRX1093013.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1093013
+2023-07-12 13:12:54.324 SUCCESS: Launch SRX1093013.fa.gz
+2023-07-12 13:12:54.827 SUCCESS: SRX1130506.fa.gz Finished with success!
+2023-07-12 13:12:54.827 SUCCESS: Finished 8 out of 99 jobs!
+2023-07-12 13:12:54.928 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130466.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130466
+2023-07-12 13:12:54.928 SUCCESS: Launch SRX1130466.fa.gz
+2023-07-12 13:12:55.029 SUCCESS: SRX1130469.fa.gz Finished with success!
+2023-07-12 13:12:55.03 SUCCESS: Finished 9 out of 99 jobs!
+2023-07-12 13:12:55.13 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP116852/reads/ERX3503481.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3503481
+2023-07-12 13:12:55.131 SUCCESS: Launch ERX3503481.fa.gz
+2023-07-12 13:12:55.131 SUCCESS: SRX9029128.fa.gz Finished with success!
+2023-07-12 13:12:55.132 SUCCESS: Finished 10 out of 99 jobs!
+2023-07-12 13:12:55.232 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP187871/reads/SRX5492850.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX5492850
+2023-07-12 13:12:55.233 SUCCESS: Launch SRX5492850.fa.gz
+2023-07-12 13:12:55.736 SUCCESS: ERX3503481.fa.gz Finished with success!
+2023-07-12 13:12:55.736 SUCCESS: Finished 11 out of 99 jobs!
+2023-07-12 13:12:55.737 SUCCESS: SRX3367918.fa.gz Finished with success!
+2023-07-12 13:12:55.737 SUCCESS: Finished 12 out of 99 jobs!
+2023-07-12 13:12:55.837 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP145632/reads/SRX4081213.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX4081213
+2023-07-12 13:12:55.838 SUCCESS: Launch SRX4081213.fa.gz
+2023-07-12 13:12:55.838 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP145632/reads/SRX4081212.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX4081212
+2023-07-12 13:12:55.839 SUCCESS: Launch SRX4081212.fa.gz
+2023-07-12 13:12:56.441 SUCCESS: SRX5492850.fa.gz Finished with success!
+2023-07-12 13:12:56.441 SUCCESS: Finished 13 out of 99 jobs!
+2023-07-12 13:12:56.542 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP116852/reads/ERX3503483.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3503483
+2023-07-12 13:12:56.542 SUCCESS: Launch ERX3503483.fa.gz
+2023-07-12 13:12:57.145 SUCCESS: ERX3503483.fa.gz Finished with success!
+2023-07-12 13:12:57.145 SUCCESS: Finished 14 out of 99 jobs!
+2023-07-12 13:12:57.246 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP245959/reads/SRX7649169.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX7649169
+2023-07-12 13:12:57.246 SUCCESS: Launch SRX7649169.fa.gz
+2023-07-12 13:12:57.348 SUCCESS: SRX1130465.fa.gz Finished with success!
+2023-07-12 13:12:57.348 SUCCESS: Finished 15 out of 99 jobs!
+2023-07-12 13:12:57.448 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130504.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130504
+2023-07-12 13:12:57.449 SUCCESS: Launch SRX1130504.fa.gz
+2023-07-12 13:12:57.65 SUCCESS: SRX1130466.fa.gz Finished with success!
+2023-07-12 13:12:57.65 SUCCESS: Finished 16 out of 99 jobs!
+2023-07-12 13:12:57.751 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546025.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546025
+2023-07-12 13:12:57.751 SUCCESS: Launch SRX546025.fa.gz
+2023-07-12 13:12:58.253 SUCCESS: SRX7649169.fa.gz Finished with success!
+2023-07-12 13:12:58.254 SUCCESS: Finished 17 out of 99 jobs!
+2023-07-12 13:12:58.354 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130464.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130464
+2023-07-12 13:12:58.354 SUCCESS: Launch SRX1130464.fa.gz
+2023-07-12 13:12:58.957 SUCCESS: SRX1093013.fa.gz Finished with success!
+2023-07-12 13:12:58.957 SUCCESS: Finished 18 out of 99 jobs!
+2023-07-12 13:12:59.058 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP124298/reads/SRX3367919.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX3367919
+2023-07-12 13:12:59.058 SUCCESS: Launch SRX3367919.fa.gz
+2023-07-12 13:12:59.56 SUCCESS: SRX4081213.fa.gz Finished with success!
+2023-07-12 13:12:59.56 SUCCESS: Finished 19 out of 99 jobs!
+2023-07-12 13:12:59.661 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130451.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130451
+2023-07-12 13:12:59.661 SUCCESS: Launch SRX1130451.fa.gz
+2023-07-12 13:12:59.762 SUCCESS: SRX1130504.fa.gz Finished with success!
+2023-07-12 13:12:59.763 SUCCESS: Finished 20 out of 99 jobs!
+2023-07-12 13:12:59.863 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130492.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130492
+2023-07-12 13:12:59.863 SUCCESS: Launch SRX1130492.fa.gz
+2023-07-12 13:13:01.568 SUCCESS: SRX4081212.fa.gz Finished with success!
+2023-07-12 13:13:01.569 SUCCESS: Finished 21 out of 99 jobs!
+2023-07-12 13:13:01.669 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP093368/reads/SRX2349196.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX2349196
+2023-07-12 13:13:01.67 SUCCESS: Launch SRX2349196.fa.gz
+2023-07-12 13:13:01.871 SUCCESS: SRX3367919.fa.gz Finished with success!
+2023-07-12 13:13:01.871 SUCCESS: Finished 22 out of 99 jobs!
+2023-07-12 13:13:01.972 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988309.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988309
+2023-07-12 13:13:01.972 SUCCESS: Launch ERX3988309.fa.gz
+2023-07-12 13:13:02.777 SUCCESS: SRX1130464.fa.gz Finished with success!
+2023-07-12 13:13:02.777 SUCCESS: Finished 23 out of 99 jobs!
+2023-07-12 13:13:02.878 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP045111/reads/SRX666570.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX666570
+2023-07-12 13:13:02.878 SUCCESS: Launch SRX666570.fa.gz
+2023-07-12 13:13:02.879 SUCCESS: SRX1130451.fa.gz Finished with success!
+2023-07-12 13:13:02.879 SUCCESS: Finished 24 out of 99 jobs!
+2023-07-12 13:13:02.98 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP131341/reads/SRX3154228.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX3154228
+2023-07-12 13:13:02.98 SUCCESS: Launch SRX3154228.fa.gz
+2023-07-12 13:13:03.783 SUCCESS: ERX3988309.fa.gz Finished with success!
+2023-07-12 13:13:03.783 SUCCESS: Finished 25 out of 99 jobs!
+2023-07-12 13:13:03.884 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988312.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988312
+2023-07-12 13:13:03.884 SUCCESS: Launch ERX3988312.fa.gz
+2023-07-12 13:13:04.185 SUCCESS: SRX1130492.fa.gz Finished with success!
+2023-07-12 13:13:04.186 SUCCESS: Finished 26 out of 99 jobs!
+2023-07-12 13:13:04.286 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130468.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130468
+2023-07-12 13:13:04.287 SUCCESS: Launch SRX1130468.fa.gz
+2023-07-12 13:13:04.287 SUCCESS: SRX546025.fa.gz Finished with success!
+2023-07-12 13:13:04.288 SUCCESS: Finished 27 out of 99 jobs!
+2023-07-12 13:13:04.388 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP156749/reads/SRX4520757.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX4520757
+2023-07-12 13:13:04.388 SUCCESS: Launch SRX4520757.fa.gz
+2023-07-12 13:13:04.99 SUCCESS: SRX3154228.fa.gz Finished with success!
+2023-07-12 13:13:04.99 SUCCESS: Finished 28 out of 99 jobs!
+2023-07-12 13:13:05.091 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130460.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130460
+2023-07-12 13:13:05.091 SUCCESS: Launch SRX1130460.fa.gz
+2023-07-12 13:13:05.793 SUCCESS: SRX666570.fa.gz Finished with success!
+2023-07-12 13:13:05.794 SUCCESS: Finished 29 out of 99 jobs!
+2023-07-12 13:13:05.894 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP074126/reads/SRX1735465.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1735465
+2023-07-12 13:13:05.895 SUCCESS: Launch SRX1735465.fa.gz
+2023-07-12 13:13:05.996 SUCCESS: ERX3988312.fa.gz Finished with success!
+2023-07-12 13:13:05.996 SUCCESS: Finished 30 out of 99 jobs!
+2023-07-12 13:13:06.096 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130503.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130503
+2023-07-12 13:13:06.097 SUCCESS: Launch SRX1130503.fa.gz
+2023-07-12 13:13:06.297 SUCCESS: SRX2349196.fa.gz Finished with success!
+2023-07-12 13:13:06.298 SUCCESS: Finished 31 out of 99 jobs!
+2023-07-12 13:13:06.398 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061317/reads/SRX1100709.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1100709
+2023-07-12 13:13:06.398 SUCCESS: Launch SRX1100709.fa.gz
+2023-07-12 13:13:06.599 SUCCESS: SRX4520757.fa.gz Finished with success!
+2023-07-12 13:13:06.599 SUCCESS: Finished 32 out of 99 jobs!
+2023-07-12 13:13:06.7 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130496.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130496
+2023-07-12 13:13:06.7 SUCCESS: Launch SRX1130496.fa.gz
+2023-07-12 13:13:07.302 SUCCESS: SRX1100709.fa.gz Finished with success!
+2023-07-12 13:13:07.303 SUCCESS: Finished 33 out of 99 jobs!
+2023-07-12 13:13:07.403 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988325.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988325
+2023-07-12 13:13:07.403 SUCCESS: Launch ERX3988325.fa.gz
+2023-07-12 13:13:07.605 SUCCESS: SRX1735465.fa.gz Finished with success!
+2023-07-12 13:13:07.605 SUCCESS: Finished 34 out of 99 jobs!
+2023-07-12 13:13:07.705 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130458.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130458
+2023-07-12 13:13:07.706 SUCCESS: Launch SRX1130458.fa.gz
+2023-07-12 13:13:08.008 SUCCESS: SRX1130468.fa.gz Finished with success!
+2023-07-12 13:13:08.008 SUCCESS: Finished 35 out of 99 jobs!
+2023-07-12 13:13:08.108 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP074124/reads/SRX1735461.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1735461
+2023-07-12 13:13:08.109 SUCCESS: Launch SRX1735461.fa.gz
+2023-07-12 13:13:08.911 SUCCESS: SRX1735461.fa.gz Finished with success!
+2023-07-12 13:13:08.911 SUCCESS: Finished 36 out of 99 jobs!
+2023-07-12 13:13:09.012 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130500.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130500
+2023-07-12 13:13:09.012 SUCCESS: Launch SRX1130500.fa.gz
+2023-07-12 13:13:09.213 SUCCESS: SRX1130496.fa.gz Finished with success!
+2023-07-12 13:13:09.214 SUCCESS: Finished 37 out of 99 jobs!
+2023-07-12 13:13:09.314 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988313.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988313
+2023-07-12 13:13:09.314 SUCCESS: Launch ERX3988313.fa.gz
+2023-07-12 13:13:09.315 SUCCESS: SRX1130503.fa.gz Finished with success!
+2023-07-12 13:13:09.315 SUCCESS: Finished 38 out of 99 jobs!
+2023-07-12 13:13:09.415 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP131341/reads/SRX3154229.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX3154229
+2023-07-12 13:13:09.416 SUCCESS: Launch SRX3154229.fa.gz
+2023-07-12 13:13:09.516 SUCCESS: SRX1130458.fa.gz Finished with success!
+2023-07-12 13:13:09.516 SUCCESS: Finished 39 out of 99 jobs!
+2023-07-12 13:13:09.617 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP058942/reads/SRX1045016.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1045016
+2023-07-12 13:13:09.617 SUCCESS: Launch SRX1045016.fa.gz
+2023-07-12 13:13:09.818 SUCCESS: SRX1130460.fa.gz Finished with success!
+2023-07-12 13:13:09.818 SUCCESS: Finished 40 out of 99 jobs!
+2023-07-12 13:13:09.918 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988308.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988308
+2023-07-12 13:13:09.918 SUCCESS: Launch ERX3988308.fa.gz
+2023-07-12 13:13:10.019 SUCCESS: ERX3988325.fa.gz Finished with success!
+2023-07-12 13:13:10.019 SUCCESS: Finished 41 out of 99 jobs!
+2023-07-12 13:13:10.12 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130489.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130489
+2023-07-12 13:13:10.12 SUCCESS: Launch SRX1130489.fa.gz
+2023-07-12 13:13:10.622 SUCCESS: ERX3988313.fa.gz Finished with success!
+2023-07-12 13:13:10.622 SUCCESS: Finished 42 out of 99 jobs!
+2023-07-12 13:13:10.722 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546015.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546015
+2023-07-12 13:13:10.723 SUCCESS: Launch SRX546015.fa.gz
+2023-07-12 13:13:11.525 SUCCESS: SRX3154229.fa.gz Finished with success!
+2023-07-12 13:13:11.526 SUCCESS: Finished 43 out of 99 jobs!
+2023-07-12 13:13:11.626 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP074124/reads/SRX1735462.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1735462
+2023-07-12 13:13:11.626 SUCCESS: Launch SRX1735462.fa.gz
+2023-07-12 13:13:11.627 SUCCESS: ERX3988308.fa.gz Finished with success!
+2023-07-12 13:13:11.627 SUCCESS: Finished 44 out of 99 jobs!
+2023-07-12 13:13:11.728 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546032.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546032
+2023-07-12 13:13:11.728 SUCCESS: Launch SRX546032.fa.gz
+2023-07-12 13:13:12.43 SUCCESS: SRX1735462.fa.gz Finished with success!
+2023-07-12 13:13:12.43 SUCCESS: Finished 45 out of 99 jobs!
+2023-07-12 13:13:12.531 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130491.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130491
+2023-07-12 13:13:12.531 SUCCESS: Launch SRX1130491.fa.gz
+2023-07-12 13:13:13.333 SUCCESS: SRX1130489.fa.gz Finished with success!
+2023-07-12 13:13:13.333 SUCCESS: Finished 46 out of 99 jobs!
+2023-07-12 13:13:13.333 SUCCESS: SRX1130500.fa.gz Finished with success!
+2023-07-12 13:13:13.334 SUCCESS: Finished 47 out of 99 jobs!
+2023-07-12 13:13:13.434 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130462.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130462
+2023-07-12 13:13:13.434 SUCCESS: Launch SRX1130462.fa.gz
+2023-07-12 13:13:13.435 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130505.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130505
+2023-07-12 13:13:13.435 SUCCESS: Launch SRX1130505.fa.gz
+2023-07-12 13:13:13.536 SUCCESS: SRX1045016.fa.gz Finished with success!
+2023-07-12 13:13:13.536 SUCCESS: Finished 48 out of 99 jobs!
+2023-07-12 13:13:13.536 SUCCESS: SRX546015.fa.gz Finished with success!
+2023-07-12 13:13:13.537 SUCCESS: Finished 49 out of 99 jobs!
+2023-07-12 13:13:13.637 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP014009/reads/SRX157655.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX157655
+2023-07-12 13:13:13.637 SUCCESS: Launch SRX157655.fa.gz
+2023-07-12 13:13:13.638 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP245959/reads/SRX7649166.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX7649166
+2023-07-12 13:13:13.638 SUCCESS: Launch SRX7649166.fa.gz
+2023-07-12 13:13:14.039 SUCCESS: SRX546032.fa.gz Finished with success!
+2023-07-12 13:13:14.039 SUCCESS: Finished 50 out of 99 jobs!
+2023-07-12 13:13:14.14 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061317/reads/SRX1100710.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1100710
+2023-07-12 13:13:14.14 SUCCESS: Launch SRX1100710.fa.gz
+2023-07-12 13:13:14.642 SUCCESS: SRX7649166.fa.gz Finished with success!
+2023-07-12 13:13:14.642 SUCCESS: Finished 51 out of 99 jobs!
+2023-07-12 13:13:14.742 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP116852/reads/ERX3503479.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3503479
+2023-07-12 13:13:14.742 SUCCESS: Launch ERX3503479.fa.gz
+2023-07-12 13:13:14.943 SUCCESS: SRX1100710.fa.gz Finished with success!
+2023-07-12 13:13:14.943 SUCCESS: Finished 52 out of 99 jobs!
+2023-07-12 13:13:15.044 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP051098/reads/SRX807046.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX807046
+2023-07-12 13:13:15.044 SUCCESS: Launch SRX807046.fa.gz
+2023-07-12 13:13:15.446 SUCCESS: ERX3503479.fa.gz Finished with success!
+2023-07-12 13:13:15.446 SUCCESS: Finished 53 out of 99 jobs!
+2023-07-12 13:13:15.547 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130461.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130461
+2023-07-12 13:13:15.547 SUCCESS: Launch SRX1130461.fa.gz
+2023-07-12 13:13:16.35 SUCCESS: SRX1130462.fa.gz Finished with success!
+2023-07-12 13:13:16.351 SUCCESS: Finished 54 out of 99 jobs!
+2023-07-12 13:13:16.451 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP045111/reads/SRX666577.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX666577
+2023-07-12 13:13:16.451 SUCCESS: Launch SRX666577.fa.gz
+2023-07-12 13:13:16.452 SUCCESS: SRX1130491.fa.gz Finished with success!
+2023-07-12 13:13:16.453 SUCCESS: Finished 55 out of 99 jobs!
+2023-07-12 13:13:16.553 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546033.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546033
+2023-07-12 13:13:16.553 SUCCESS: Launch SRX546033.fa.gz
+2023-07-12 13:13:17.556 SUCCESS: SRX157655.fa.gz Finished with success!
+2023-07-12 13:13:17.556 SUCCESS: Finished 56 out of 99 jobs!
+2023-07-12 13:13:17.656 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988324.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988324
+2023-07-12 13:13:17.657 SUCCESS: Launch ERX3988324.fa.gz
+2023-07-12 13:13:17.958 SUCCESS: SRX807046.fa.gz Finished with success!
+2023-07-12 13:13:17.958 SUCCESS: Finished 57 out of 99 jobs!
+2023-07-12 13:13:17.958 SUCCESS: SRX1130505.fa.gz Finished with success!
+2023-07-12 13:13:17.958 SUCCESS: Finished 58 out of 99 jobs!
+2023-07-12 13:13:18.059 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130463.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130463
+2023-07-12 13:13:18.059 SUCCESS: Launch SRX1130463.fa.gz
+2023-07-12 13:13:18.06 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546024.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546024
+2023-07-12 13:13:18.06 SUCCESS: Launch SRX546024.fa.gz
+2023-07-12 13:13:18.662 SUCCESS: SRX666577.fa.gz Finished with success!
+2023-07-12 13:13:18.663 SUCCESS: Finished 59 out of 99 jobs!
+2023-07-12 13:13:18.763 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130467.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130467
+2023-07-12 13:13:18.763 SUCCESS: Launch SRX1130467.fa.gz
+2023-07-12 13:13:18.964 SUCCESS: SRX546033.fa.gz Finished with success!
+2023-07-12 13:13:18.965 SUCCESS: Finished 60 out of 99 jobs!
+2023-07-12 13:13:19.065 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130455.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130455
+2023-07-12 13:13:19.066 SUCCESS: Launch SRX1130455.fa.gz
+2023-07-12 13:13:19.166 SUCCESS: ERX3988324.fa.gz Finished with success!
+2023-07-12 13:13:19.167 SUCCESS: Finished 61 out of 99 jobs!
+2023-07-12 13:13:19.267 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988322.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988322
+2023-07-12 13:13:19.268 SUCCESS: Launch ERX3988322.fa.gz
+2023-07-12 13:13:19.569 SUCCESS: SRX1130455.fa.gz Finished with success!
+2023-07-12 13:13:19.569 SUCCESS: Finished 62 out of 99 jobs!
+2023-07-12 13:13:19.669 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130470.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130470
+2023-07-12 13:13:19.67 SUCCESS: Launch SRX1130470.fa.gz
+2023-07-12 13:13:19.871 SUCCESS: SRX1130461.fa.gz Finished with success!
+2023-07-12 13:13:19.871 SUCCESS: Finished 63 out of 99 jobs!
+2023-07-12 13:13:19.971 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130459.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130459
+2023-07-12 13:13:19.972 SUCCESS: Launch SRX1130459.fa.gz
+2023-07-12 13:13:20.273 SUCCESS: SRX1130463.fa.gz Finished with success!
+2023-07-12 13:13:20.273 SUCCESS: Finished 64 out of 99 jobs!
+2023-07-12 13:13:20.373 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130490.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130490
+2023-07-12 13:13:20.374 SUCCESS: Launch SRX1130490.fa.gz
+2023-07-12 13:13:20.675 SUCCESS: ERX3988322.fa.gz Finished with success!
+2023-07-12 13:13:20.675 SUCCESS: Finished 65 out of 99 jobs!
+2023-07-12 13:13:20.776 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546017.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546017
+2023-07-12 13:13:20.776 SUCCESS: Launch SRX546017.fa.gz
+2023-07-12 13:13:20.977 SUCCESS: SRX1130467.fa.gz Finished with success!
+2023-07-12 13:13:20.977 SUCCESS: Finished 66 out of 99 jobs!
+2023-07-12 13:13:21.077 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP027589/reads/SRX326627.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX326627
+2023-07-12 13:13:21.078 SUCCESS: Launch SRX326627.fa.gz
+2023-07-12 13:13:23.486 SUCCESS: SRX546024.fa.gz Finished with success!
+2023-07-12 13:13:23.486 SUCCESS: Finished 67 out of 99 jobs!
+2023-07-12 13:13:23.586 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130499.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130499
+2023-07-12 13:13:23.586 SUCCESS: Launch SRX1130499.fa.gz
+2023-07-12 13:13:23.988 SUCCESS: SRX546017.fa.gz Finished with success!
+2023-07-12 13:13:23.988 SUCCESS: Finished 68 out of 99 jobs!
+2023-07-12 13:13:23.988 SUCCESS: SRX1130490.fa.gz Finished with success!
+2023-07-12 13:13:23.988 SUCCESS: Finished 69 out of 99 jobs!
+2023-07-12 13:13:24.089 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP156749/reads/SRX4520756.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX4520756
+2023-07-12 13:13:24.089 SUCCESS: Launch SRX4520756.fa.gz
+2023-07-12 13:13:24.089 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP093368/reads/SRX2349197.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX2349197
+2023-07-12 13:13:24.089 SUCCESS: Launch SRX2349197.fa.gz
+2023-07-12 13:13:24.391 SUCCESS: SRX1130459.fa.gz Finished with success!
+2023-07-12 13:13:24.391 SUCCESS: Finished 70 out of 99 jobs!
+2023-07-12 13:13:24.491 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130453.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130453
+2023-07-12 13:13:24.491 SUCCESS: Launch SRX1130453.fa.gz
+2023-07-12 13:13:25.894 SUCCESS: SRX326627.fa.gz Finished with success!
+2023-07-12 13:13:25.894 SUCCESS: Finished 71 out of 99 jobs!
+2023-07-12 13:13:25.995 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP060754/reads/SRX1093014.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1093014
+2023-07-12 13:13:25.995 SUCCESS: Launch SRX1093014.fa.gz
+2023-07-12 13:13:26.095 SUCCESS: SRX1130470.fa.gz Finished with success!
+2023-07-12 13:13:26.096 SUCCESS: Finished 72 out of 99 jobs!
+2023-07-12 13:13:26.196 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP093368/reads/SRX2349198.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX2349198
+2023-07-12 13:13:26.196 SUCCESS: Launch SRX2349198.fa.gz
+2023-07-12 13:13:26.998 SUCCESS: SRX4520756.fa.gz Finished with success!
+2023-07-12 13:13:26.999 SUCCESS: Finished 73 out of 99 jobs!
+2023-07-12 13:13:27.099 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546034.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546034
+2023-07-12 13:13:27.099 SUCCESS: Launch SRX546034.fa.gz
+2023-07-12 13:13:27.2 SUCCESS: SRX1130499.fa.gz Finished with success!
+2023-07-12 13:13:27.2 SUCCESS: Finished 74 out of 99 jobs!
+2023-07-12 13:13:27.3 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP245959/reads/SRX7649167.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX7649167
+2023-07-12 13:13:27.301 SUCCESS: Launch SRX7649167.fa.gz
+2023-07-12 13:13:28.003 SUCCESS: SRX1130453.fa.gz Finished with success!
+2023-07-12 13:13:28.003 SUCCESS: Finished 75 out of 99 jobs!
+2023-07-12 13:13:28.103 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988320.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988320
+2023-07-12 13:13:28.104 SUCCESS: Launch ERX3988320.fa.gz
+2023-07-12 13:13:28.505 SUCCESS: SRX7649167.fa.gz Finished with success!
+2023-07-12 13:13:28.506 SUCCESS: Finished 76 out of 99 jobs!
+2023-07-12 13:13:28.606 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130457.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130457
+2023-07-12 13:13:28.606 SUCCESS: Launch SRX1130457.fa.gz
+2023-07-12 13:13:29.709 SUCCESS: SRX2349198.fa.gz Finished with success!
+2023-07-12 13:13:29.709 SUCCESS: Finished 77 out of 99 jobs!
+2023-07-12 13:13:29.81 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546026.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546026
+2023-07-12 13:13:29.81 SUCCESS: Launch SRX546026.fa.gz
+2023-07-12 13:13:29.811 SUCCESS: ERX3988320.fa.gz Finished with success!
+2023-07-12 13:13:29.811 SUCCESS: Finished 78 out of 99 jobs!
+2023-07-12 13:13:29.911 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130471.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130471
+2023-07-12 13:13:29.911 SUCCESS: Launch SRX1130471.fa.gz
+2023-07-12 13:13:30.012 SUCCESS: SRX1093014.fa.gz Finished with success!
+2023-07-12 13:13:30.012 SUCCESS: Finished 79 out of 99 jobs!
+2023-07-12 13:13:30.112 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP124298/reads/SRX3367920.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX3367920
+2023-07-12 13:13:30.113 SUCCESS: Launch SRX3367920.fa.gz
+2023-07-12 13:13:30.313 SUCCESS: SRX1130471.fa.gz Finished with success!
+2023-07-12 13:13:30.314 SUCCESS: Finished 80 out of 99 jobs!
+2023-07-12 13:13:30.414 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP045111/reads/SRX666576.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX666576
+2023-07-12 13:13:30.414 SUCCESS: Launch SRX666576.fa.gz
+2023-07-12 13:13:30.615 SUCCESS: SRX1130457.fa.gz Finished with success!
+2023-07-12 13:13:30.615 SUCCESS: Finished 81 out of 99 jobs!
+2023-07-12 13:13:30.716 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP131341/reads/SRX3154230.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX3154230
+2023-07-12 13:13:30.716 SUCCESS: Launch SRX3154230.fa.gz
+2023-07-12 13:13:31.919 SUCCESS: SRX2349197.fa.gz Finished with success!
+2023-07-12 13:13:31.919 SUCCESS: Finished 82 out of 99 jobs!
+2023-07-12 13:13:32.019 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP131341/reads/SRX3154231.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX3154231
+2023-07-12 13:13:32.02 SUCCESS: Launch SRX3154231.fa.gz
+2023-07-12 13:13:32.321 SUCCESS: SRX3154230.fa.gz Finished with success!
+2023-07-12 13:13:32.321 SUCCESS: Finished 83 out of 99 jobs!
+2023-07-12 13:13:32.421 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP267656/reads/SRX8564783.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX8564783
+2023-07-12 13:13:32.421 SUCCESS: Launch SRX8564783.fa.gz
+2023-07-12 13:13:32.923 SUCCESS: SRX666576.fa.gz Finished with success!
+2023-07-12 13:13:32.923 SUCCESS: Finished 84 out of 99 jobs!
+2023-07-12 13:13:33.023 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/ERP120483/reads/ERX3988310.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/ERX3988310
+2023-07-12 13:13:33.024 SUCCESS: Launch ERX3988310.fa.gz
+2023-07-12 13:13:33.225 SUCCESS: SRX3367920.fa.gz Finished with success!
+2023-07-12 13:13:33.225 SUCCESS: Finished 85 out of 99 jobs!
+2023-07-12 13:13:33.325 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP042053/reads/SRX546016.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX546016
+2023-07-12 13:13:33.325 SUCCESS: Launch SRX546016.fa.gz
+2023-07-12 13:13:33.526 SUCCESS: SRX546034.fa.gz Finished with success!
+2023-07-12 13:13:33.526 SUCCESS: Finished 86 out of 99 jobs!
+2023-07-12 13:13:33.627 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130456.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130456
+2023-07-12 13:13:33.627 SUCCESS: Launch SRX1130456.fa.gz
+2023-07-12 13:13:34.129 SUCCESS: SRX3154231.fa.gz Finished with success!
+2023-07-12 13:13:34.129 SUCCESS: Finished 87 out of 99 jobs!
+2023-07-12 13:13:34.229 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP238359/reads/SRX7421974.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX7421974
+2023-07-12 13:13:34.229 SUCCESS: Launch SRX7421974.fa.gz
+2023-07-12 13:13:35.232 SUCCESS: SRX1130456.fa.gz Finished with success!
+2023-07-12 13:13:35.232 SUCCESS: Finished 88 out of 99 jobs!
+2023-07-12 13:13:35.232 SUCCESS: ERX3988310.fa.gz Finished with success!
+2023-07-12 13:13:35.232 SUCCESS: Finished 89 out of 99 jobs!
+2023-07-12 13:13:35.333 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130507.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130507
+2023-07-12 13:13:35.333 SUCCESS: Launch SRX1130507.fa.gz
+2023-07-12 13:13:35.334 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP045111/reads/SRX666574.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX666574
+2023-07-12 13:13:35.334 SUCCESS: Launch SRX666574.fa.gz
+2023-07-12 13:13:35.936 SUCCESS: SRX546016.fa.gz Finished with success!
+2023-07-12 13:13:35.936 SUCCESS: Finished 90 out of 99 jobs!
+2023-07-12 13:13:36.036 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP093368/reads/SRX2349199.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX2349199
+2023-07-12 13:13:36.036 SUCCESS: Launch SRX2349199.fa.gz
+2023-07-12 13:13:36.137 SUCCESS: SRX8564783.fa.gz Finished with success!
+2023-07-12 13:13:36.137 SUCCESS: Finished 91 out of 99 jobs!
+2023-07-12 13:13:36.238 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130452.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130452
+2023-07-12 13:13:36.238 SUCCESS: Launch SRX1130452.fa.gz
+2023-07-12 13:13:36.639 SUCCESS: SRX1130452.fa.gz Finished with success!
+2023-07-12 13:13:36.64 SUCCESS: Finished 92 out of 99 jobs!
+2023-07-12 13:13:36.74 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP061940/reads/SRX1130501.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1130501
+2023-07-12 13:13:36.74 SUCCESS: Launch SRX1130501.fa.gz
+2023-07-12 13:13:36.841 SUCCESS: SRX7421974.fa.gz Finished with success!
+2023-07-12 13:13:36.841 SUCCESS: Finished 93 out of 99 jobs!
+2023-07-12 13:13:36.942 SUCCESS: java -classpath /shared/miSRA/backend_exec/java sRNAbench.sRNAbenchLight  minRC=1 minReadLength=18 libsmappingOrientation=--norc alignType=v noMM=0 libs=/shared/miSRA/upload/idDBTDI8NKFXETYP2/NC_001802 plotLibs=true minRCplotLibs=0 minRCplotLibs=1  input=/shared/miSRAdb/miRexpress_store/SRP060754/reads/SRX1093011.fa.gz output=/shared/miSRA/upload/idDBTDI8NKFXETYP2/bench/SRX1093011
+2023-07-12 13:13:36.942 SUCCESS: Launch SRX1093011.fa.gz
+2023-07-12 13:13:36.942 SUCCESS: SRX546026.fa.gz Finished with success!
+2023-07-12 13:13:36.942 SUCCESS: Finished 94 out of 99 jobs!
+2023-07-12 13:13:37.143 SUCCESS: SRX1130507.fa.gz Finished with success!
+2023-07-12 13:13:37.143 SUCCESS: Finished 95 out of 99 jobs!
+2023-07-12 13:13:38.145 SUCCESS: SRX1130501.fa.gz Finished with success!
+2023-07-12 13:13:38.145 SUCCESS: Finished 96 out of 99 jobs!
+2023-07-12 13:13:38.446 SUCCESS: SRX666574.fa.gz Finished with success!
+2023-07-12 13:13:38.446 SUCCESS: Finished 97 out of 99 jobs!
+2023-07-12 13:13:40.949 SUCCESS: SRX1093011.fa.gz Finished with success!
+2023-07-12 13:13:40.95 SUCCESS: Finished 98 out of 99 jobs!
+2023-07-12 13:13:44.855 SUCCESS: SRX2349199.fa.gz Finished with success!
+2023-07-12 13:13:44.855 SUCCESS: Finished 99 out of 99 jobs!
+2023-07-12 13:13:44.96 SUCCESS: Finished profiling. Preparing output data (matrixes, graphcis, etc. )
+2023-07-12 13:13:44.963 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  sampleSheet=/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RCadj_sampleSheet.tsv mode=generate columnIndex=3 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RCadj_all.tsv sumDuplicates=true
+2023-07-12 13:13:45.21 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  mode=rem0 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RCadj.tsv input=/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RCadj_all.tsv
+2023-07-12 13:13:45.322 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  sampleSheet=/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RPMtotal_sampleSheet.tsv mode=generate columnIndex=8 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RPMtotal_all.tsv sumDuplicates=true
+2023-07-12 13:13:45.458 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  mode=rem0 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RPMtotal.tsv input=/shared/miSRA/upload/idDBTDI8NKFXETYP2/matrix_NC_001802_RPMtotal_all.tsv
+2023-07-12 13:13:45.593 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  sampleSheet=/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/sampleSheet.tsv mode=generate columnIndex=3 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/NC_001802.1_RC.tsv 
+2023-07-12 13:13:47.225 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  sampleSheet=/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/sampleSheet.tsv mode=generate columnIndex=4 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/NC_001802.1_RCperc.tsv 
+2023-07-12 13:13:49.273 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  sampleSheet=/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/sampleSheet.tsv mode=generate columnIndex=6 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/mappingsPerPos/NC_001802.1_RPMtotal.tsv 
+2023-07-12 13:13:51.007 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  sampleSheet=/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RPMtotal_sampleSheet.tsv mode=generate columnIndex=2 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RPMtotal_all.tsv sumDuplicates=true
+2023-07-12 13:13:53.744 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  mode=rem0 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RPMtotal.tsv input=/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RPMtotal_all.tsv
+2023-07-12 13:14:05.013 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  sampleSheet=/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RC_sampleSheet.tsv mode=generate columnIndex=1 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RC_all.tsv sumDuplicates=true
+2023-07-12 13:14:07.209 SUCCESS: launch: java -classpath /shared/miSRA/backend_exec/java2020:/shared/miSRA/backend_exec/java/commons-compress-1.18.jar matrix.Matrix  mode=rem0 outfile=/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RC.tsv input=/shared/miSRA/upload/idDBTDI8NKFXETYP2/readLevel_NC_001802_RC_all.tsv
+2023-07-12 13:14:15.365 SUCCESS: Start with postprocessing 
