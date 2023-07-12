@@ -69,7 +69,9 @@ To obtain all samples and studies available for a specific species, you can do:
 There are 3 main modes to query samples in miSRA:
 * **miRNA**: mature and hairpin miRNA sequences are used for profiling
 * **library**: long reference sequences are used for profiling and mappings of reads to these sequences will be reported
-* **spike**: short reference sequences are provided and only exact matches will be reported
+* **exact**: short reference sequences are provided and only exact matches will be reported
+
+Check the [manual](https://github.com/bioinfoUGR/miSRA/blob/main/manual.pdf) for more details.
 
 ### miRNA mode example run
 In this example we mapped samples from the RNA Atlas project ([SRP225193](https://trace.ncbi.nlm.nih.gov/Traces/?view=study&acc=SRP225193)) to some miRNAs from MirGeneDB.\
@@ -142,7 +144,7 @@ A local directory called vih1_lib will be generated, containing the same results
 
 
 ## Manual
-For further questions, please refer to the [manual]() or [post an issue](https://github.com/bioinfoUGR/miSRA/issues).
+For further questions, please refer to the [manual](https://github.com/bioinfoUGR/miSRA/blob/main/manual.pdf) or [post an issue](https://github.com/bioinfoUGR/miSRA/issues).
 
 
 

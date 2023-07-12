@@ -11,12 +11,11 @@ The requiered information is specified in a config file (json or key=value forma
 
 Launch the miSRA without paramters to obtain a commented config file
 
-Git hub:
+Git hub: https://github.com/bioinfoUGR/miSRA/
 
-Manual: 
+Manual: https://github.com/bioinfoUGR/miSRA/blob/main/manual.pdf
 
-Example config:
-
+Example config: https://github.com/bioinfoUGR/miSRA/blob/main/examples/mirna/annotated_config.json
 Authors:
 - Ernesto Aparicio Puerta <>
 - Michael Hackenberg <hackenberg@ugr.es>
@@ -27,14 +26,14 @@ Installation:
 All dependencies should be installed already in a standard python installation.
 Installing through pip, will make the script runable from any working directory resolving also dependencies issues.
 
-pip
+pip3 install miSRA
 
 
-Version: 0.9
-Date: June 28, 2023
+Version: 0.0.2
+Date: July 12th, 2023
 
 Dependencies:
-- Python 3.8 or higher
+- Python 3.7 or higher
 
 
 
@@ -236,8 +235,8 @@ def parseArgs():
                         help='show database statistics and dump them to miSRAdb_stat.csv')
 
     parser.add_argument('--taxonID', '-t', type=str,
-                        help='show database statistics for a specific NCBI\'s taxon ID and dump them' +
-                             ' to miSRAdb_taxonID_[TAXONID].csv')
+                        help='show database content (studies and samples) for a specific species using its ' +
+                             'NCBI\'s taxon ID and dump them to miSRAdb_taxonID_[TAXONID].csv')
     parser.add_argument('--jobID', '-j', type=str, help='once a job is submitted successfully, you receive a jobID. ' +
                                                         'Use this parameter to retrieve your results if the ' +
                                                         'connection is interrupted.')
@@ -391,6 +390,8 @@ def parseConfig(file):
             backdata["mode"] = "download"
             return (backdata, None)
         # check if mode is spike and the file is specified and does exist
+        if (data["mode"] == "exact"):
+            data["mode"] = "spike"
         if (data["mode"] == "spike"):
             if (data.get("spikeFile") and os.path.isfile(data["spikeFile"])):
                 backdata["mode"] = "spike"

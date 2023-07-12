@@ -1,0 +1,15 @@
+{
+        "mode":"mirna",  # There are different modes to query miSRA (mirna, lib and spike). The mode mirna performs alignments to miRNA annotations using sRNAbench
+        
+        # mirna mode requires 2 miRNA annotation files, one for mature miRNAs and one for hairpins
+        "mature":"mature_hsa.fa", # path to mature miRNA annotations in fasta format
+        "hairpin":"hairpin_hsa.fa", # path to hairpin miRNA annotations in fasta format
+        
+        # you can specify which samples you want to profile either by specifying comma-separated SRA study or experiment accessions
+        "studies":"SRP225193", # profile all samples from this study
+        # "experiments":"SRX2349199,SRX2349197,SRX546025,SRX546026", # this would include these experiments
+        
+        "localOut":"RNAatlas", # local folder where the results will be downloaded to
+        "mm": "1", # number of mismatches (optional)
+        "alignType":"v" # bowtie alignment type (optional)
+    }
