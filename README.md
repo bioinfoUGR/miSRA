@@ -65,6 +65,14 @@ To obtain all samples and studies available for a specific species, you can do:
     ## Where TAXON_ID is NCBI's taxonID. For instance, for human:
     miSRA --taxonID 9606
 
+You can also explore how many samples and studies are available at different taxonomic levels using 
+[sunburst plots](https://plotly.com/python/sunburst-charts/).
+* [Metazoa](https://arn.ugr.es/eap/miSRA/metazoa.html)
+* [Viridiplantae](https://arn.ugr.es/eap/miSRA/viridiplantae.html)
+
+
+
+
 ## miSRA modes:
 There are 3 main modes to query samples in miSRA:
 * **miRNA**: mature and hairpin miRNA sequences are used for profiling
