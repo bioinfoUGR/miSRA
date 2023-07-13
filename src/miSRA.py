@@ -392,6 +392,13 @@ def parseConfig(file):
         # check if mode is spike and the file is specified and does exist
         if (data["mode"] == "exact"):
             data["mode"] = "spike"
+            if (data.get("spikeFile") and os.path.isfile(data["spikeFile"])):
+                backdata["mode"] = "spike"
+                backdata["fn1"] = os.path.basename(data["spikeFile"])
+                return (backdata, {"spikeFile": data["spikeFile"]})
+            else:
+                print("The fasta file (spikeFile=) with localOut spike-in sequences could not be detected")
+                sys.exit(0)
         if (data["mode"] == "spike"):
             if (data.get("spikeFile") and os.path.isfile(data["spikeFile"])):
                 backdata["mode"] = "spike"
