@@ -1,5 +1,5 @@
 {
-        "mode":"mirna",  # There are different modes to query miSRA (mirna, lib and spike). The mode mirna performs alignments to miRNA annotations using sRNAbench
+        "mode":"mirna",  # There are different modes to query miSRA (mirna, lib, exact and download). The mode mirna performs alignments to miRNA annotations using sRNAbench. 'download' provides the adapter trimmed sample data.
 
         # mirna mode requires 2 miRNA annotation files, one for mature miRNAs and one for hairpins
         "mature":"mature_hsa.fa", # path to mature miRNA annotations in fasta format

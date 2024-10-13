@@ -1,0 +1,11 @@
+	
+{
+"mode":"mirna",
+"studies":"SRP225193",
+"mature":"mature_hsa.fa",
+"hairpin":"hairpin_hsa.fa",
+"localOut":"RNAatlas",
+"mm": "1",
+"alignType":"v"
+}
+

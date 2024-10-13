@@ -1,0 +1,15 @@
+studies=SRP225193
+alignType=v
+mm=1
+localOut=RNAatlas
+type=profiler
+mode=mirna
+fn1=mature.fa
+fn2=hairpin.fa
+mature=/shared/mirnapro/upload/id4JWV03B5FZMSNR2/mature.fa
+hairpin=/shared/mirnapro/upload/id4JWV03B5FZMSNR2/hairpin.fa
+post=true
+output=/shared/mirnapro/upload/id4JWV03B5FZMSNR2 
+javaBasePath=/shared/mirnapro/backend_exec/java
+javaBasePath2020=/shared/mirnapro/backend_exec/java2020
+dbPath=/shared/miSRAdb/miRexpress_store

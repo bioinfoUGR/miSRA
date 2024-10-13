@@ -1,0 +1,13 @@
+	
+{
+"mode":"download",
+"experiments":"SRX2349199,SRX2349197",
+"sep":"_",
+"minRC":"2",
+"minReadLength":"15",
+"maxReadLength":"26",
+"localOut":"data"
+}
+
+
+

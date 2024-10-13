@@ -39,7 +39,7 @@ If you do not want to add an alias, miSRA is a stand-alone script so it should w
 An example [*config.json*](https://raw.githubusercontent.com/bioinfoUGR/miSRA/main/src/example_configs/miSRA_example_config.json) could include the following parameters (for a detailed explanation of the different query modes, [see **miSRA modes** ](#miSRA-modes)):
     
     {
-        "mode":"mirna",  # There are different modes to query miSRA (mirna, libs and spike). The mode mirna performs alignments to miRNA annotations using sRNAbench
+        "mode":"mirna",  # There are different modes to query miSRA (mirna, libs, exact and download). The mode mirna performs alignments to miRNA annotations using sRNAbench
         
         # mirna mode requires 2 miRNA annotation files, one for mature miRNAs and one for hairpins
         "mature":"mature_hsa.fa", # path to mature miRNA annotations in fasta format
@@ -72,12 +72,12 @@ You can also explore how many samples and studies are available at different tax
 
 
 
-
 ## miSRA modes:
 There are 3 main modes to query samples in miSRA:
 * **miRNA**: mature and hairpin miRNA sequences are used for profiling
 * **library**: long reference sequences are used for profiling and mappings of reads to these sequences will be reported
 * **exact**: short reference sequences are provided and only exact matches will be reported
+* **download**: download adapter trimmed, clean small RNA-seq data in fasta format.  
 
 Check the [manual](https://github.com/bioinfoUGR/miSRA/blob/main/manual.pdf) for more details.
 
@@ -148,8 +148,30 @@ You can simply launch it by doing:
 A local directory called vih1_lib will be generated, containing the same results files as the [example](https://github.com/bioinfoUGR/miSRA/tree/master/examples/libs/output).
 
 
-### spike mode example run
+### download mode example run
 
+    Downloads the read data in fasta format. The name of each read consists of an arbitrary ID plus the read count separated by an user determined character. 
+    cd download
+    more config.json
+        
+    {
+        "mode":"download",
+        "experiments":"SRX2349199,SRX2349197",
+        "sep":"-",
+        "minRC":"2",
+        "minReadLength":"15",
+        "maxReadLength":"26",
+        "localOut":"data"
+    }
+
+
+This mode comes with a couple of parameters:
+*    **sep**: the character that should be used to separate the id and the read count (# for sRNAbench, - for fastx, etc)
+*    **minRC**: <value> - the minimum number of times the read exists in the experiment (default 0)
+*    **minReadLength**:<value> - the minimum length of the read (default 18)
+*    **maxReadLength**:<value> - the maximum length of the read (not applied by default).
+
+All fasta files will be gzipped and included in a tarball. This file will be stored in the 'data' folder (specified by localOut) generated in the working directory of the user.  
 
 ## Manual
 For further questions, please refer to the [manual](https://github.com/bioinfoUGR/miSRA/blob/main/manual.pdf) or [post an issue](https://github.com/bioinfoUGR/miSRA/issues).

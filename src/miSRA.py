@@ -197,6 +197,7 @@ def post_profiler(data, files):
     else:
         postfiles = {}
         for k in files:
+#            print ("file: "+files[k])
             postfiles[k] = open(files[k], "rb")
 
         r = requests.post(profiler_url, files=postfiles, data=data, stream=True)
@@ -205,7 +206,7 @@ def post_profiler(data, files):
 def msg():
     text = "miSRA --config /path/to/config.json\n" + \
            "### To see an example config: ###\n" + \
-           "miSRA --example-config\n" + \
+           "miSRA --ewxample-config\n" + \
            "Use only one of the optional parameters"
     return text
 
@@ -368,7 +369,7 @@ def parseConfig(file):
             print("The local output directory does exist already!")
         else:
             os.mkdir(data['localOut'])
-            print("Created the directory{}".format(data['localOut']))
+            print("Created the directory: {}".format(data['localOut']))
     else:
         backdata['localOut'] = "pySRA_results"
         print("localOut= was not specified in config file. Will create default output pySRA_results")
@@ -388,6 +389,18 @@ def parseConfig(file):
 
         if data['mode'] == "download":
             backdata["mode"] = "download"
+        ## add the separator 
+            if "sep" in data:
+                backdata['sep']=data["sep"]
+            else:
+                backdata['sep']="#"
+            if "minRC" in data:
+                backdata['minRC']=data["minRC"]
+            if "minReadLength" in data:
+                backdata['minReadLength']=data["minReadLength"]
+            if "maxReadLength" in data:
+                backdata['maxReadLength']=data["maxReadLength"]
+                
             return (backdata, None)
         # check if mode is spike and the file is specified and does exist
         if (data["mode"] == "exact"):
